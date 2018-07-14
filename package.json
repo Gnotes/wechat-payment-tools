@@ -12,6 +12,14 @@
   ],
   "author": "xing.he",
   "license": "ISC",
+  "homepage": "https://github.com/Xing-He/wechat-payment-tools",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Xing-He/wechat-payment-tools"
+  },
+  "bugs": {
+    "url": "https://github.com/Xing-He/wechat-payment-tools/issues"
+  },
   "dependencies": {
     "axios": "^0.18.0",
     "xml": "^1.0.1",
