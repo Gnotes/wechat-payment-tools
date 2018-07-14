@@ -1,0 +1,20 @@
+{
+  "name": "@xinghe/wechat-payment-tools",
+  "version": "0.1.0",
+  "description": "A tool for wechat payment.",
+  "main": "lib/index.js",
+  "keywords": [
+    "wechat",
+    "payment",
+    "tool",
+    "html5",
+    "mini program"
+  ],
+  "author": "xing.he",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "xml": "^1.0.1",
+    "xml2js": "^0.4.19"
+  }
+}
